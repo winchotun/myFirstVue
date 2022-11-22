@@ -5,7 +5,6 @@
     <h3>
       hi this is win cho tun
     </h3>
-    <p>hi this is testing </p>
     <p>
       For a guide and recipes on how to configure / customize this project,<br>
       check out the
